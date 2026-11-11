@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "내 앱",
+    "slug": "kids-schedule-diary",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": ["android", "web"],
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
